@@ -50,13 +50,17 @@ body {
   justify-content: center;
   /* flex-wrap: nowrap; */
 }
+.buttom33{
+  margin-bottom: 50px;
+  padding-bottom: 50px;
+}
 
 .flex-container h1{
   padding: 20px;
   margin-left: 2%;
   margin-right: 2%;
   padding: 15px;
-  background-color: whitesmoke;
+  /* background-color: whitesmoke; */
   justify-content: center;
 }
 
