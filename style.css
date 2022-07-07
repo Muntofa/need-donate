@@ -1,5 +1,67 @@
 body {
-    box-sizing: border-box;
-    font-family: 'Roboto', sans-serif;
-  }
+  font-family: 'Finlandica', sans-serif;
+  margin: 0;
+}
+
+.cover-section {
+    background: url(image/donation01.jpg);
+    background-size: cover;
+    padding: 60px;
+    text-align: center;
+    width: auto;
+    height: 400px;
+    color: white;
+}
+
+.cover h1{
+  font-size: 50px;
+}
+.cover p{
+  font-size: 20px;
+  /* color: blue; */
+}
+
+.button-link{
+  margin: 50px;
+}
+
+.button-link a{
+  text-decoration: none;
+  background-color: #FF5959;
+  margin: 10px;
+  padding: 15px;
+  color: white;
+  border-radius: 5px;
+}
+
+.donate-today {
+  text-align: center;
+}
+
+.donate-today h1{
+  font-size: 45px;
+  margin-top: 100px;
+  margin-bottom: -1px;
+  padding-bottom: 5px;
+}
+
+.price{
+  display: flex;
+  justify-content: center;
+}
+
+.price h1{
+  padding: 20px;
+  margin-left: 2%;
+  margin-right: 2%;
+  padding: 15px;
+  background-color: whitesmoke;
+  justify-content: center;
+}
+
+.price-color {
+  color: #FF5959;
+  background-color: #FFEEEE;
+  border: 1px solid #FF5959;
+}
   
