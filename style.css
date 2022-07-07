@@ -27,7 +27,7 @@ body {
 
 .button-link a{
   text-decoration: none;
-  background-color: #FF5959;
+  background-color: #ff7272;
   margin: 10px;
   padding: 15px;
   color: white;
@@ -60,8 +60,29 @@ body {
 }
 
 .price-color {
-  color: #FF5959;
+  color: #ff7272;
   background-color: #FFEEEE;
-  border: 1px solid #FF5959;
+  border: 3px solid #ff7272;
+  border-radius: 5px;
 }
+
+.center{
+  text-align: center;
+}
+
+.input-price {
+  display: flex;
+  flex-direction: column-reverse;
+  padding: 10px;
+}
+#input-field {
+  border: 0;
+  border-bottom: 2px solid #eee;
+  text-align: center;
+  font-size: 1.25rem;
+  font: inherit;
+}
+
+
+
   
