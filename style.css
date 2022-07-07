@@ -144,6 +144,10 @@ footer {
   
 }
 
+.gallery{
+  align-items: center;
+}
+
 .image {
   display: flex;
   /* justify-content: center; */
