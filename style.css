@@ -142,6 +142,7 @@ footer {
 
 .image {
   display: flex;
+  /* justify-content: center; */
   width: 340px;
   height: 220px;
   border: 1px solid gray;
