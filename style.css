@@ -155,7 +155,16 @@ footer {
 }
 
 
+.two-side {
+  text-align: left;
+}
 
+.two-side h1{
+  font-size: 45px;
+  margin-top: 50px;
+  margin-bottom: -1px;
+  padding-bottom: 5px;
+}
 
 
 
