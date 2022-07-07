@@ -102,6 +102,19 @@ body {
   background-color: #FFF4D6;
 }
 
+footer {
+  background-color: #0B0D17;
+  text-align: center;
+  padding: 26px;
+}
+footer h2 {
+  color: #FF5959;
+  font-size: 35px;
+}
+footer p {
+  color: #D9DBE1;
+  font-weight: 200px;
+}
 
 
 
